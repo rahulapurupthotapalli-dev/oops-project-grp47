@@ -4,6 +4,10 @@ Enterprise IT Service Management and Incident Resolution Platform designed aroun
 
 Developed for CS F213 / MAC F212 Object Oriented Programming, Semester-I 2026-2027, BITS Pilani, Hyderabad Campus.
 
+[![Live Demo on Vercel](https://img.shields.io/badge/Live_Demo-Vercel-black?style=for-the-badge&logo=vercel)](https://oops-project-grp47.vercel.app/)
+
+> 🌐 **Live Demo**: [https://oops-project-grp47.vercel.app/](https://oops-project-grp47.vercel.app/)
+
 ---
 
 ## Key Features
